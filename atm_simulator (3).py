@@ -2,7 +2,7 @@
 
 Run:  python atm_simulator.py
 Demo cards (created on first run):
-    1111222233334444  PIN 2222  (Demo User)
+    1111222233334444  PIN 1234  (Demo User)
     5555666677778888  PIN 4321   (Second User)
 Admin password: admin123
 """
